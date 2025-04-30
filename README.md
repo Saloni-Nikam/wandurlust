@@ -49,21 +49,24 @@ wanderlust/
 ## ⚙️ Setup & Installation
 
  1. Clone the Repository
-    git clone https://github.com/Saloni-Nikam/wanderlust.git
-    cd wanderlust
+    -git clone https://github.com/Saloni-Nikam/wanderlust.git
+    -cd wanderlust
+
 
  2. Install Dependencies
-    npm install
+    -npm install
+
 
  3. Setup Environment Variables
     Create a .env file in the root directory:
 
-      DATABASE_URL=your_mongodb_url
-      CLOUDINARY_CLOUD_NAME=your_cloudinary_name
-      CLOUDINARY_KEY=your_cloudinary_key
-      CLOUDINARY_SECRET=your_cloudinary_secret
-      MAPBOX_TOKEN=your_mapbox_token
-      SECRET=your_session_secret
+      -DATABASE_URL=your_mongodb_url
+      -CLOUDINARY_CLOUD_NAME=your_cloudinary_name
+      -CLOUDINARY_KEY=your_cloudinary_key
+      -CLOUDINARY_SECRET=your_cloudinary_secret
+      -MAPBOX_TOKEN=your_mapbox_token
+      -SECRET=your_session_secret
+
 
     4. Run the App
       npm start
