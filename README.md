@@ -32,7 +32,7 @@ Wanderlust is a full-featured travel and destination booking web application whe
 
 '''bash
 wanderlust/
-|
+
 |- models/           # Mongoose schemas (User, Listing, Review)
 |- routes/           # Express route handlers
 |- controllers/      # Route logic (MVC architecture)
