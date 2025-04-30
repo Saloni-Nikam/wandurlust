@@ -33,16 +33,16 @@ Wanderlust is a full-featured travel and destination booking web application whe
 '''bash
 wanderlust/
 
-|- models/           # Mongoose schemas (User, Listing, Review)
-|- routes/           # Express route handlers
-|- controllers/      # Route logic (MVC architecture)
-|- public/           # Static assets (CSS, JS, images)
-|- views/            # EJS templates
-|- utils/            # Utility functions (middleware, cloudinary, mapbox)
-|- screenshots/      # Project screenshots
-|- .env              # Environment variables (NOT pushed to GitHub)
-|- app.js             # Main server entry
-|- package.json
+- models/           # Mongoose schemas (User, Listing, Review)
+- routes/           # Express route handlers
+- controllers/      # Route logic (MVC architecture)
+- public/           # Static assets (CSS, JS, images)
+- views/            # EJS templates
+- utils/            # Utility functions (middleware, cloudinary, mapbox)
+- screenshots/      # Project screenshots
+- .env              # Environment variables (NOT pushed to GitHub)
+- app.js             # Main server entry
+- package.json
 
 ---
 
