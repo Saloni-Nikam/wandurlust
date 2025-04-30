@@ -49,7 +49,7 @@ wanderlust/
 ## ⚙️ Setup & Installation
 
  1. Clone the Repository
-    -git clone https://github.com/Saloni-Nikam/wanderlust.git
+    -git clone https://github.com/Saloni-Nikam/wanderlust
     -cd wanderlust
 
 
